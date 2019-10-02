@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\APILinx\APILinx\bin\Debug\netcoreapp2.2\APILinx.deps.json
+C:\Users\Victor\source\repos\APILinx\APILinx\bin\Debug\netcoreapp2.2\APILinx.runtimeconfig.json
+C:\Users\Victor\source\repos\APILinx\APILinx\bin\Debug\netcoreapp2.2\APILinx.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\APILinx\APILinx\bin\Debug\netcoreapp2.2\APILinx.dll
+C:\Users\Victor\source\repos\APILinx\APILinx\bin\Debug\netcoreapp2.2\APILinx.pdb
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.RazorAssemblyInfo.cache
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.RazorAssemblyInfo.cs
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.AssemblyInfo.cs
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.dll
+C:\Users\Victor\source\repos\APILinx\APILinx\obj\Debug\netcoreapp2.2\APILinx.pdb
